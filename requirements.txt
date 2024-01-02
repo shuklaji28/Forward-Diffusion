@@ -3,4 +3,4 @@ opencv-python-headless
 streamlit
 torch
 torchvision
-PIL
+Pillow
