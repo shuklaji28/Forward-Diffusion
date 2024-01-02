@@ -4,3 +4,4 @@ streamlit
 torch
 torchvision
 Pillow
+matplotlib
