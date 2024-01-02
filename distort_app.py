@@ -7,7 +7,6 @@ from PIL import Image
 from torchvision import transforms
 import numpy as np
 import matplotlib.pyplot as plt
-import urllib
 
 st.set_page_config(layout='wide')
 device = '0' if torch.cuda.is_available() else 'cpu'
