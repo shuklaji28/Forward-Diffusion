@@ -2,4 +2,7 @@ numpy
 opencv-python-headless
 streamlit
 torch
-
+PIL
+torchvision
+urllib
+pprint
